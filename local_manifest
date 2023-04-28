@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+  <!-- Trees -->
+  <project path="device/xiaomi/ginkgo" name="RandomBuilds31/device_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1" />
+  <project path="vendor/xiaomi/ginkgo" name="RandomBuilds31/vendor_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1" />
+  <project path="kernel/xiaomi/ginkgo" name="RandomBuilds31/kernel_xiaomi_ginkgo" remote="github" revision="thirteen" clone-depth="1" />
+  <project path="vendor/miuicamera" name="RandomBuilds31/vendor_miuicamera" remote="github" revision="thirteen" clone-depth="1" />
+  
+</manifest>
+  
